@@ -1,0 +1,5 @@
+There is already a file called "Minipoly" in the folder that you can run by enter"./Minipoly" directly.
+However, if there is any problem running it, just input:"make clean" and "make Minipoly", then enter"./Minipoly" to run the game.
+BTW: remember that when you enter the game for the first time, the Load function is not suitable (just start New game)!
+
+Enjoy!
